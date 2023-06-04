@@ -14,4 +14,16 @@ GitHub je vďaka rozmanitosti funkcií využívaný korporáciami, profesionáln
 Zakladateľmi GitHubu sú Tom Preston-Werner, Chris Wanstrath, PJ Hyett a Scott Chacon. Založili ho v roku 2008 a od roku 2018 je dcérskou spoločnosťou Microsoftu.
       
 ## Možnosti využitia
-GitHub sa okrem kolaborácie na projektoch a kontroly verzií používa na mnoho ďalších vecí. Najvýznamnejšími z nich sú dokumentácia, hosťovanie jednoduchých webových stránok ako je táto, time management a issue tracking.
+GitHub sa okrem kolaborácie na projektoch a kontroly verzií používa na mnoho ďalších vecí. Napríklad na:
+- Dokumentáciu
+- Issue tracking
+- Wiki
+- Grafy
+- Oznámenia
+- Diskusie
+- Hosťovanie webstránok
+- Prehliadanie PDF
+- Bezpečnostné upozornenia
+
+## Logo
+Logo bolo navrhnuté grafickým dizajnérom Simonom Oxleym. Pôvodne mal pritom slúžiť iba ako klipart ponúkaný na predaj vo fotobanke IStock. Záujem GitHubu o návrhárovu prácu pritom inšpiroval Oxleyho úspešný návrh loga pre Twitter. Ilustrácia pomenovaná „Octupuss“, ktorú si GitHub vybral za svoje logo, bola však podľa zmluvy IStock pre tieto zámery nepredajná, čo viedlo GitHub k rokovaniu s Oxleym za účelom zisku výnimočných práv na použitie diela.
