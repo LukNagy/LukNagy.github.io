@@ -1,5 +1,9 @@
 # GitHub
-<img src="github.png" width="150" height="85" style="float: center">
+<img style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;" 
+     src="github.png" width="150" height="85" alt="GitHub Logo">
 ## Čo je GitHub?
 GitHub je softvér na správu verzií s použitím verziovacieho nástroja Git. Ponúka distribuované verziovanie a správu zdrojového kódu systémom Git, ale aj ďalšie vlastné funkcie. Umožňuje regulovať prístup a má niekoľko funkcií zameraných na spoluprácu, ako napríklad sledovanie hlásených chýb, požiadavky na nové funkcie, správa úloh, priebežná integrácia a wiki stránka pre každý projekt.
       
